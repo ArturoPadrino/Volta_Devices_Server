@@ -26,6 +26,7 @@ Carpeta que incluye las cabeceras de los objetos que hay en las librerías
 
 Necesario compilador gcc
 Una vez estamos dentro de la carpeta del proyecto, ejecutar:
+
 	gcc main_volta.c -o nombreejecutable -I./cabeceras -L./ -lrabbit -ljsmn
 
 Si da algún tipo de problema el compilador:	
