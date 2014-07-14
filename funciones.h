@@ -6,10 +6,10 @@
 //  Copyright (c) 2014 ArturoPadrino. All rights reserved.
 //
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdint.h>
+#include "stdlib.h"
+#include "stdio.h"
+#include "string.h"
+#include "stdint.h"
 #include "amqp_tcp_socket.h"
 #include "amqp.h"
 #include "amqp_framing.h"
